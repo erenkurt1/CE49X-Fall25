@@ -1,0 +1,74 @@
+CE49X Final Project - Task 2: Text Preprocessing Report
+============================================================
+
+Generated: 2025-12-27 17:16:19
+
+Total articles processed: 1004
+Average tokens per article: 14.3
+Total unique tokens: 2856
+
+Top 20 Most Frequent Words (excluding stopwords):
+   1. construction         (161)
+   2. artificial           (117)
+   3. concrete             (114)
+   4. intelligence         (109)
+   5. technology           (83)
+   6. new                  (83)
+   7. infrastructure       (82)
+   8. system               (80)
+   9. engineering          (77)
+  10. 2025                 (75)
+  11. study                (74)
+  12. company              (70)
+  13. machine              (68)
+  14. automation           (68)
+  15. tunnel               (67)
+  16. bridge               (66)
+  17. learning             (64)
+  18. robotics             (64)
+  19. data                 (62)
+  20. model                (59)
+
+Top 20 Bigrams:
+   1. artificial intelligence                  (105)
+   2. machine learning                         (46)
+   3. neural network                           (30)
+   4. computer science                         (20)
+   5. real time                                (20)
+   6. construction industry                    (16)
+   7. civil engineering                        (15)
+   8. computer vision                          (14)
+   9. health monitoring                        (14)
+  10. intelligence machine                     (12)
+  11. construction robot                       (12)
+  12. high performance                         (12)
+  13. using artificial                         (12)
+  14. ready mix                                (12)
+  15. mix concrete                             (12)
+  16. seed funding                             (11)
+  17. study present                            (10)
+  18. construction material                    (10)
+  19. structural health                        (10)
+  20. study demonstrate                        (10)
+
+Top 20 Trigrams:
+   1. artificial intelligence machine                    (12)
+   2. using artificial intelligence                      (12)
+   3. ready mix concrete                                 (12)
+   4. intelligence machine learning                      (10)
+   5. structural health monitoring                       (10)
+   6. artificial intelligence design                     (10)
+   7. three case study                                   (8)
+   8. case study demonstrate                             (8)
+   9. study demonstrate geotechnical                     (8)
+  10. demonstrate geotechnical engineer                  (8)
+  11. geotechnical engineer using                        (8)
+  12. engineer using artificial                          (8)
+  13. intelligence design analysis                       (8)
+  14. design analysis information                        (8)
+  15. analysis information management                    (8)
+  16. ultimate bearing capacity                          (8)
+  17. machine learning model                             (8)
+  18. non medical listing                                (7)
+  19. concrete printing 3dcp                             (7)
+  20. printing 3dcp offer                                (7)

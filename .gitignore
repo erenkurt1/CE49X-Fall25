@@ -8,3 +8,10 @@
 **/.virtual_documents/
 # You might also want to ignore other temporary files if needed
 
+
+# Final Project
+.env
+*.env
+__pycache__/
+*.pyc
+

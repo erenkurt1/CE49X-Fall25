@@ -1,0 +1,42 @@
+CE49X Final Project - Final Insights & Conclusion
+============================================================
+
+Generated: 2025-12-28 08:12:50
+
+AI Maturity Ranking:
+  1. Structural                     - Score: 278.6
+     Total AI articles: 539
+     AI technologies used: 6
+     Diversity score: 1.00
+     Average frequency: 89.8
+
+  2. Transportation                 - Score: 203.4
+     Total AI articles: 372
+     AI technologies used: 6
+     Diversity score: 1.00
+     Average frequency: 62.0
+
+  3. Geotechnical                   - Score: 155.2
+     Total AI articles: 265
+     AI technologies used: 6
+     Diversity score: 1.00
+     Average frequency: 44.2
+
+  4. Environmental Engineering      - Score: 89.5
+     Total AI articles: 119
+     AI technologies used: 6
+     Diversity score: 1.00
+     Average frequency: 19.8
+
+  5. Construction Management        - Score: 82.8
+     Total AI articles: 104
+     AI technologies used: 6
+     Diversity score: 1.00
+     Average frequency: 17.3
+
+
+Key Findings:
+  • Structural leads in AI adoption
+  • Structural Engineering shows highest AI integration
+  • Transportation follows closely in second place
+  • Machine Learning and Robotics are most commonly used
