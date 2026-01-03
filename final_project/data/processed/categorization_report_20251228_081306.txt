@@ -1,0 +1,40 @@
+CE49X Final Project - Task 3: Categorization Report
+============================================================
+
+Generated: 2025-12-28 08:13:07
+
+Total articles analyzed: 473
+
+Civil Engineering Areas:
+  Structural                    :  169 articles ( 35.7%)
+  Transportation                :  120 articles ( 25.4%)
+  Geotechnical                  :  106 articles ( 22.4%)
+  Environmental Engineering     :   30 articles (  6.3%)
+  Construction Management       :   28 articles (  5.9%)
+
+AI Technologies:
+  Artificial Intelligence       :  301 articles ( 63.6%)
+  Robotics/Automation           :  131 articles ( 27.7%)
+  Machine Learning              :  105 articles ( 22.2%)
+  Generative Design             :   45 articles (  9.5%)
+  Predictive Analytics          :   37 articles (  7.8%)
+  Computer Vision               :   25 articles (  5.3%)
+
+CE Area AI Usage Ranking:
+  1. Structural                    :  245 articles
+  2. Transportation                :  176 articles
+  3. Geotechnical                  :  123 articles
+  4. Environmental Engineering     :   50 articles
+  5. Construction Management       :   40 articles
+
+Top 10 CE Area × AI Technology Combinations:
+  Structural                × Artificial Intelligence       : 116 articles
+  Transportation            × Artificial Intelligence       :  84 articles
+  Geotechnical              × Artificial Intelligence       :  49 articles
+  Structural                × Machine Learning              :  48 articles
+  Structural                × Robotics/Automation           :  36 articles
+  Transportation            × Robotics/Automation           :  34 articles
+  Geotechnical              × Machine Learning              :  28 articles
+  Geotechnical              × Robotics/Automation           :  27 articles
+  Transportation            × Machine Learning              :  25 articles
+  Environmental Engineering × Artificial Intelligence       :  25 articles

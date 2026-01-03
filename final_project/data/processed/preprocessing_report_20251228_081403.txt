@@ -1,0 +1,74 @@
+CE49X Final Project - Task 2: Text Preprocessing Report
+============================================================
+
+Generated: 2025-12-28 08:14:03
+
+Total articles processed: 473
+Average tokens per article: 14.2
+Total unique tokens: 2818
+
+Top 20 Most Frequent Words (excluding stopwords):
+   1. construction         (66)
+   2. artificial           (52)
+   3. concrete             (49)
+   4. intelligence         (48)
+   5. infrastructure       (39)
+   6. technology           (38)
+   7. new                  (38)
+   8. 2025                 (37)
+   9. engineering          (35)
+  10. tunnel               (35)
+  11. system               (34)
+  12. company              (33)
+  13. bridge               (32)
+  14. data                 (31)
+  15. robot                (31)
+  16. automation           (31)
+  17. study                (30)
+  18. machine              (30)
+  19. learning             (30)
+  20. robotics             (30)
+
+Top 20 Bigrams:
+   1. artificial intelligence                  (46)
+   2. machine learning                         (21)
+   3. neural network                           (14)
+   4. computer science                         (9)
+   5. real time                                (9)
+   6. construction industry                    (8)
+   7. computer vision                          (8)
+   8. intelligence machine                     (6)
+   9. civil engineering                        (6)
+  10. seed funding                             (6)
+  11. construction robot                       (6)
+  12. concrete structure                       (5)
+  13. study present                            (5)
+  14. health monitoring                        (5)
+  15. sustainable construction                 (5)
+  16. learning model                           (5)
+  17. press release                            (5)
+  18. december 2025                            (5)
+  19. ready mix                                (5)
+  20. mix concrete                             (5)
+
+Top 20 Trigrams:
+   1. artificial intelligence machine                    (6)
+   2. intelligence machine learning                      (5)
+   3. ready mix concrete                                 (5)
+   4. million pre seed                                   (4)
+   5. pre seed funding                                   (4)
+   6. machine learning model                             (4)
+   7. artificial intelligence help                       (3)
+   8. buildroid robotics startup                         (3)
+   9. seed funding led                                   (3)
+  10. structural health monitoring                       (3)
+  11. using artificial intelligence                      (3)
+  12. non medical listing                                (3)
+  13. machine learning system                            (3)
+  14. stackgen shared update                             (3)
+  15. concrete quality prediction                        (3)
+  16. quality prediction production                      (3)
+  17. prediction production automation                   (3)
+  18. machine learning technique                         (2)
+  19. novel framework integrating                        (2)
+  20. collaboration use doxel                            (2)

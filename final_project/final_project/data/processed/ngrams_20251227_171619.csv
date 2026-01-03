@@ -1,0 +1,61 @@
+type,phrase,frequency
+unigram,construction,161
+unigram,artificial,117
+unigram,concrete,114
+unigram,intelligence,109
+unigram,technology,83
+unigram,new,83
+unigram,infrastructure,82
+unigram,system,80
+unigram,engineering,77
+unigram,2025,75
+unigram,study,74
+unigram,company,70
+unigram,machine,68
+unigram,automation,68
+unigram,tunnel,67
+unigram,bridge,66
+unigram,learning,64
+unigram,robotics,64
+unigram,data,62
+unigram,model,59
+bigram,artificial intelligence,105
+bigram,machine learning,46
+bigram,neural network,30
+bigram,computer science,20
+bigram,real time,20
+bigram,construction industry,16
+bigram,civil engineering,15
+bigram,computer vision,14
+bigram,health monitoring,14
+bigram,intelligence machine,12
+bigram,construction robot,12
+bigram,high performance,12
+bigram,using artificial,12
+bigram,ready mix,12
+bigram,mix concrete,12
+bigram,seed funding,11
+bigram,study present,10
+bigram,construction material,10
+bigram,structural health,10
+bigram,study demonstrate,10
+trigram,artificial intelligence machine,12
+trigram,using artificial intelligence,12
+trigram,ready mix concrete,12
+trigram,intelligence machine learning,10
+trigram,structural health monitoring,10
+trigram,artificial intelligence design,10
+trigram,three case study,8
+trigram,case study demonstrate,8
+trigram,study demonstrate geotechnical,8
+trigram,demonstrate geotechnical engineer,8
+trigram,geotechnical engineer using,8
+trigram,engineer using artificial,8
+trigram,intelligence design analysis,8
+trigram,design analysis information,8
+trigram,analysis information management,8
+trigram,ultimate bearing capacity,8
+trigram,machine learning model,8
+trigram,non medical listing,7
+trigram,concrete printing 3dcp,7
+trigram,printing 3dcp offer,7

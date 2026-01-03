@@ -1,0 +1,61 @@
+type,phrase,frequency
+unigram,construction,66
+unigram,artificial,52
+unigram,concrete,49
+unigram,intelligence,48
+unigram,infrastructure,39
+unigram,technology,38
+unigram,new,38
+unigram,2025,37
+unigram,engineering,35
+unigram,tunnel,35
+unigram,system,34
+unigram,company,33
+unigram,bridge,32
+unigram,data,31
+unigram,robot,31
+unigram,automation,31
+unigram,study,30
+unigram,machine,30
+unigram,learning,30
+unigram,robotics,30
+bigram,artificial intelligence,46
+bigram,machine learning,21
+bigram,neural network,14
+bigram,computer science,9
+bigram,real time,9
+bigram,construction industry,8
+bigram,computer vision,8
+bigram,intelligence machine,6
+bigram,civil engineering,6
+bigram,seed funding,6
+bigram,construction robot,6
+bigram,concrete structure,5
+bigram,study present,5
+bigram,health monitoring,5
+bigram,sustainable construction,5
+bigram,learning model,5
+bigram,press release,5
+bigram,december 2025,5
+bigram,ready mix,5
+bigram,mix concrete,5
+trigram,artificial intelligence machine,6
+trigram,intelligence machine learning,5
+trigram,ready mix concrete,5
+trigram,million pre seed,4
+trigram,pre seed funding,4
+trigram,machine learning model,4
+trigram,artificial intelligence help,3
+trigram,buildroid robotics startup,3
+trigram,seed funding led,3
+trigram,structural health monitoring,3
+trigram,using artificial intelligence,3
+trigram,non medical listing,3
+trigram,machine learning system,3
+trigram,stackgen shared update,3
+trigram,concrete quality prediction,3
+trigram,quality prediction production,3
+trigram,prediction production automation,3
+trigram,machine learning technique,2
+trigram,novel framework integrating,2
+trigram,collaboration use doxel,2
